@@ -7,6 +7,8 @@ title: Hello World
 
 ## Something here
 
+/images/zebrafish_embryo.jpeg
+
 First post on my Github Jekyll page on the first day of the BioHack Academy
 
 **bold**
