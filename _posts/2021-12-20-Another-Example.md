@@ -1,12 +1,12 @@
 ---
 layout: post
-title: First-Post
+title: Another-Example
 ---
 
 # Another example of documentation
 
 These zebrafish have lines.
-![zebrafish lines](/images/zebrafish_lines.jpeg)
+![zebrafish lines](/images/zebrafish_lines.jpg)
 
 So I used a slower shutterspeed to just capture the lines.
 
