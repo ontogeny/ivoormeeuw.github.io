@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Another-Example
+title: Another example of documentation
 ---
 
-# Another example of documentation
-
-These zebrafish have lines.
+## These zebrafish have lines.
 ![zebrafish lines](/images/zebrafish_lines.jpg)
-
 So I used a slower shutterspeed to just capture the lines.
 
 
