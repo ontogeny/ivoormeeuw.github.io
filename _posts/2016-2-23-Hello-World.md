@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Hello World
+title: Zebrafish Embryo
 ---
 
-# BHA Documentation
-
-## Something here
+## Under a microscope
 
 Documentation
 ![zebrafish embryo](/images/zebrafish_embryo.jpeg)
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
-
-**bold**
+"This is the very moment life happens", the researcher guiding us through the animal section. 
 
 
